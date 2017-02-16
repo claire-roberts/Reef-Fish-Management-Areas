@@ -1,0 +1,52 @@
+---
+title: "Untitled"
+author: "Claire Roberts"
+date: "January 26, 2016"
+output: html_document
+---
+
+```{r, echo=FALSE}
+library(leaflet)
+
+WellHead<-makeIcon(iconUrl="http://www.clipartbest.com/cliparts/pi5/oLR/pi5oLR49T.png",
+                   iconWidth = 50,iconHeight = 50
+)
+
+rand_lng = function(n = 10) rnorm(n, -93.65, .01)
+rand_lat = function(n = 10) rnorm(n, 42.0285, .01)
+m = leaflet() %>% 
+  addTiles('http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
+           options = providerTileOptions(noWrap = TRUE)) %>% 
+  addTiles('http://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/Mapserver/tile/{z}/{y}/{x}',
+           options = providerTileOptions(noWrap = TRUE)) %>% 
+  setView(lng=-88.5,lat=29.6,zoom=7) %>% 
+  addRectangles(
+    lng1=-88.24,lat1=29.66,
+    lng2=-87.53,lat2=30.11,
+    opacity=1,
+    fillColor='transparent', weight=4, color="#FFF") %>% 
+   addMarkers(-88.38717,28.73672, icon=WellHead) %>% 
+  addCircleMarkers(lng = -88.513057, lat = 31.177039,
+                   fillOpacity=0,
+                   opacity=0,
+                   label = "Alabama",
+                   labelOptions = labelOptions(noHide = T)) %>% 
+addCircleMarkers(lng = -87.039841, lat = 30.778428,
+                 fillOpacity=0,
+                 opacity=0,
+                 label = "Florida",
+                 labelOptions = labelOptions(noHide = T)) %>% 
+addCircleMarkers(lng =   -89.825236, lat = 30.730403,
+                 fillOpacity=0,
+                 opacity=0,
+                 label = "Mississippi",
+                 labelOptions = labelOptions(noHide = T)) %>% 
+addCircleMarkers(lng =-92.031361, lat = 30.067096,
+                 fillOpacity=0,
+                 opacity=0,
+                 label = "Louisiana",
+                 labelOptions = labelOptions(noHide = T)) %>% 
+addScaleBar(position=c("bottomright"))
+m
+```
+
