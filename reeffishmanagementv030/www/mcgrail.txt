@@ -1,0 +1,19 @@
+﻿URL: http://sero.nmfs.noaa.gov/maps_gis_data/fisheries/gom/documents/mcgrail.txt
+
+Title 50 CFR: Wildlife and Fisheries
+PART 622 FISHERIES OF THE CARIBBEAN, GULF OF MEXICO, AND SOUTH ATLANTIC
+Subpart D—Coral and Coral Reefs of the Gulf of Mexico
+§ 622.74 Area closures to protect Gulf corals.
+
+(f) McGrail Bank HAPC. Fishing with a bottom longline, bottom trawl, buoy gear, pot, or 
+trap and bottom anchoring by fishing vessels are prohibited year-round in the HAPC, which 
+is bounded by rhumb lines connecting, in order, the following points:
+-----------------------------------------
+Point           North lat.    West long.
+-----------------------------------------
+A               27°59'06.0"   92°37'19.2"
+B               27°59'06.0"   92°32'17.4"
+C               27°55'55.5"   92°32'17.4"
+D               27°55'55.5"   92°37'19.2"
+A               27°59'06.0"   92°37'19.2"
+-----------------------------------------

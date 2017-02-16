@@ -1,0 +1,20 @@
+﻿URL: http://sero.nmfs.noaa.gov/maps_gis_data/fisheries/gom/documents/pulley_ridge.txt
+
+Title 50 CFR: Wildlife and Fisheries
+PART 622 FISHERIES OF THE CARIBBEAN, GULF OF MEXICO, AND SOUTH ATLANTIC
+Subpart D—Coral and Coral Reefs of the Gulf of Mexico
+§ 622.74 Area closures to protect Gulf corals.
+
+(d) Pulley Ridge HAPC. Fishing with a bottom longline, bottom trawl, buoy gear, pot, or 
+trap and bottom anchoring by fishing vessels are prohibited year-round in the area of the 
+HAPC bounded by rhumb lines connecting, in order, the following points:
+--------------------------------------------------
+Point                   North lat.    West long.
+--------------------------------------------------
+A                       24°58'18"     83°38'33"  
+B                       24°58'18"     83°37'00"  
+C                       24°41'11"     83°37'00"  
+D                       24°40'00"     83°41'22"  
+E                       24°43'55"     83°47'15"  
+A                       24°58'18"     83°38'33"  
+---------------------------------------------------

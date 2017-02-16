@@ -1,0 +1,36 @@
+﻿URL: http://sero.nmfs.noaa.gov/maps_gis_data/fisheries/gom/documents/flower_gardens.txt
+
+Title 50 CFR: Wildlife and Fisheries
+PART 622 FISHERIES OF THE CARIBBEAN, GULF OF MEXICO, AND SOUTH ATLANTIC
+Subpart D—Coral and Coral Reefs of the Gulf of Mexico
+§ 622.74 Area closures to protect Gulf corals.
+
+(a) West and East Flower Garden Banks HAPC. The following activities are prohibited 
+year-round in the HAPC: Fishing with a bottom longline, bottom trawl, buoy gear, dredge, 
+pot, or trap and bottom anchoring by fishing vessels.
+
+
+(1) West Flower Garden Bank. West Flower Garden Bank is bounded by rhumb lines connecting, 
+in order, the following points:
+
+--------------------------------------------------------
+Point              North lat.       West long.
+--------------------------------------------------------
+A....................27°55'22.8"    93°53'09.6"
+B....................27°55'22.8"    93°46'46.0"
+C....................27°49'03.0"    93°46'46.0"
+D....................27°49'03.0"    93°53'09.6"
+A....................27°55'22.8"    93°53'09.6"
+--------------------------------------------------------
+
+(2) East Flower Garden Bank. East Flower Garden Bank is bounded by rhumb lines connecting, 
+in order, the following points:
+
+Point               North lat.      West long.
+--------------------------------------------------------
+A....................27°59'14.4"    93°38'58.2"
+B....................27°59'14.4"    93°34'03.5"
+C....................27°52'36.5"    93°34'03.5"
+D....................27°52'36.5"    93°38'58.2"
+A....................27°59'14.4"    93°38'58.2"
+--------------------------------------------------------

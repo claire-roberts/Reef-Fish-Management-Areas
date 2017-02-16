@@ -1,0 +1,86 @@
+﻿URL: http://sero.nmfs.noaa.gov/maps_gis_data/fisheries/gom/documents/gulf_shrimp_by.txt
+
+Title 50 CFR: Wildlife and Fisheries
+PART 622 FISHERIES OF THE CARIBBEAN, BULF OF MEXICO, AND SOUTH ATLANTIC
+Subpart C—Shrimp Fishery of the Gulf of Mexico
+§ 622.55 Closed areas.
+
+(d) Closures of the Gulf shrimp fishery to reduce red snapper bycatch. During a closure 
+implemented in accordance with this paragraph (d), trawling is prohibited within the 
+specified closed area(s).
+
+(1) Procedure for determining need for and extent of closures. Each year, in accordance with 
+the applicable framework procedure established in the Gulf Shrimp FMP, the RA will, if 
+necessary, establish a seasonal area closure for the shrimp fishery in all or a portion of 
+the areas of the Gulf EEZ specified in paragraphs (d)(2) through (d)(4) of this section. The 
+RA's determination of the need for such closure and its geographical scope and duration will 
+be based on an annual assessment, by the Southeast Fisheries Science Center, of the shrimp 
+effort and associated shrimp trawl bycatch mortality on red snapper in the 10-30 fathom area 
+of statistical zones 10-21, compared to the 67-percent target reduction of shrimp trawl 
+bycatch mortality on red snapper from the benchmark years of 2001-2003 established in the 
+FMP (which corresponds in terms of annual shrimp effort to 27,328 days fished). The framework 
+procedure provides for adjustment of this target reduction level, consistent with the red 
+snapper stock rebuilding plan and the findings of subsequent stock assessments, via 
+appropriate rulemaking. The assessment will use shrimp effort data for the most recent 
+12-month period available and will include a recommendation regarding the geographical scope 
+and duration of the closure. The Southeast Fisheries Science Center's assessment will be 
+provided to the RA on or about March 1 of each year. If the RA determines that a closure is 
+necessary, the closure falls within the scope of the potential closures evaluated in the 
+Gulf Shrimp FMP, and good cause exists to waive notice and comment, NMFS will implement the 
+closure by publication of a final rule in the Federal Register. If such good cause waiver is 
+not justified, NMFS will implement the closure via appropriate notice and comment rulemaking. 
+NMFS intends that any closure implemented consistent with this paragraph (l) will begin on 
+the same date and time as the Texas closure unless circumstances dictate otherwise.
+
+(2) Eastern zone. The eastern zone is bounded by rhumb lines connecting, in order, the 
+following points:
+------------------------------------------------------------------------
+                    Point                      North lat.    West long.
+------------------------------------------------------------------------
+A........................................... 	29°14′		88°57′
+B........................................... 	29°24′		88°34′
+C........................................... 	29°34′		87°38′
+D........................................... 	30°04′		87°00′
+E ........................................... 	30°04′		88°41′
+F ........................................... 	29°36′		88°37′
+G........................................... 	29°21′		88°59′
+A........................................... 	29°14′		88°57′
+------------------------------------------------------------------------
+
+(3) Louisiana zone. The Louisiana zone is bounded by rhumb lines connecting, in order, the 
+following points:
+------------------------------------------------------------------------
+                    Point                      North lat.    West long.
+------------------------------------------------------------------------
+A........................................... 	29°09.1′         93°41.4′
+B........................................... 	29°09.25′        92°36′
+C........................................... 	28°35′           90°44′
+D........................................... 	29°09′           89°48′
+E ........................................... 	28°57′           89°34′
+F ........................................... 	28°40′           90°09′
+G........................................... 	28°18′           90°33′
+H........................................... 	28°25′           91°37′
+I........................................... 	28°21.7′         93°28.4′
+A........................................... 	29°09.1′         93°41.4′
+------------------------------------------------------------------------
+
+(4) Texas zone. The Texas zone is bounded by rhumb lines connecting, in order, the 
+following points:
+------------------------------------------------------------------------
+                    Point                      North lat.    West long.
+------------------------------------------------------------------------
+A........................................... 	29°09.1′         93°41.4′
+B........................................... 	28°44′           95°15′
+C........................................... 	28°11′           96°17′
+D........................................... 	27°44′           96°53′
+E ........................................... 	27°02′           97°11′
+F ........................................... 	26°00.5′         96°57.3′
+G........................................... 	26°00.5′         96°35.85′
+H........................................... 	26°24′           96°36′
+I........................................... 	26°49′           96°52′
+J........................................... 	27°12′           96°51′
+K........................................... 	27°39′           96°33′
+L........................................... 	27°55′           96°04′
+M........................................... 	28°21.7′         93°28.4′
+A........................................... 	29°09.1′         93°41.4′
+------------------------------------------------------------------------

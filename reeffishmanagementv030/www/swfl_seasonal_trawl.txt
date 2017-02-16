@@ -1,0 +1,21 @@
+﻿URL: http://sero.nmfs.noaa.gov/maps_gis_data/fisheries/gom/documents/swfl_seasonal_trawl.txt
+
+Title 50 CFR: Wildlife and Fisheries
+PART 622 FISHERIES OF THE CARIBBEAN, BULF OF MEXICO, AND SOUTH ATLANTIC
+Subpart C—Shrimp Fishery of the Gulf of Mexico
+§ 622.55   Closed areas.
+
+(b) Southwest Florida seasonal trawl closure. From January 1 to 1 hour after official sunset 
+on May 20, each year, trawling, including trawling for live bait, is prohibited in that part 
+of the Gulf EEZ shoreward of rhumb lines connecting, in order, the following points:
+
+------------------------------------------------------------------------
+Point                                         North lat.    West long.
+------------------------------------------------------------------------
+B \1\.......................................  26°16.0'       81°58.5'
+C...........................................  26°00.0'       82°04.0'
+D...........................................  25°09.0'       81°47.6'
+E...........................................  24°54.5'       81°50.5'
+M \1\.......................................  24°49.3'       81°46.4'
+------------------------------------------------------------------------
+\1\ On the seaward limit of Florida's waters.

@@ -1,0 +1,74 @@
+﻿URL: http://sero.nmfs.noaa.gov/maps_gis_data/fisheries/gom/documents/shrimp_crab.txt
+
+Title 50 CFR: Wildlife and Fisheries
+PART 622 FISHERIES OF THE CARIBBEAN, GULF OF MEXICO, AND SOUTH ATLANTIC
+Subpart C—Shrimp Fishery of the Gulf of Mexico
+§ 622.55   Closed areas.
+
+ (e) Shrimp/stone crab separation zones. Five zones are established in the Gulf EEZ and 
+Florida's waters off Citrus and Hernando Counties for the separation of shrimp trawling 
+and stone crab trapping. Although Zone II is entirely within Florida's waters, it is 
+included in this paragraph (e) for the convenience of fishermen. Restrictions that apply 
+to Zone II and those parts of the other zones that are in Florida's waters are contained 
+in Rule 68B-38.001, Florida Administrative Code, in effect as of March 1, 2005 (incorporated
+ by reference, see §622.413). Geographical coordinates of the points referred to in this 
+paragraph (e) are as follows:
+
+------------------------------------------------
+Point          North lat.    West long.
+------------------------------------------------
+A.................28°59'30"    82°45'36"
+B.................28°59'30"    83°00'10"
+C.................28°26'01"    82°59'47"
+D.................28°26'01"    82°56'54"
+E.................28°41'39"    82°55'25"
+F.................28°41'39"    82°56'09"
+G.................28°48'56"    82°56'19"
+H.................28°53'51"    82°51'19"
+I \1\.............28°54'43"    82°44'52"
+J \2\.............28°51'09"    82°44'00"
+K.................28°50'59"    82°54'16"
+L.................28°41'39"    82°53'56"
+M \3\.............28°41'39"    82°38'46"
+N.................28°41'39"    82°53'12"
+O.................28°30'51"    82°55'11"
+P.................28°40'00"    82°53'08"
+Q.................28°40'00"    82°47'58"
+R.................28°35'14"    82°47'47"
+S.................28°30'51"    82°52'55"
+T.................28°27'46"    82°55'09"
+U.................28°30'51"    82°52'09"
+------------------------------------------------
+\1\ Crystal River Entrance Light 1A.
+\2\ Long Pt. (southwest tip).
+\3\ Shoreline.
+
+(1) Zone I is enclosed by rhumb lines connecting, in order, points A, B, C, D, T, E, F, G, 
+H, I, and J, plus the shoreline between points A and J. It is unlawful to trawl in that 
+part of Zone I that is in the EEZ from October 5 through May 20, each year.
+
+(2) Zone II is enclosed by rhumb lines connecting, in order, points J, I, H, K, L, and M, 
+plus the shoreline between points J and M. Restrictions that apply to Zone II and those 
+parts of the other zones that are in Florida's waters are contained in Rule 68B-38.001, 
+Florida Administrative Code, in effect as of March 1, 2005 (incorporated by reference, 
+see §622.413).
+
+(3) Zone III is enclosed by rhumb lines connecting, in order, points P, Q, R, U, S, and P. 
+It is unlawful to trawl in that part of Zone III that is in the EEZ from October 5 through 
+May 20, each year.
+
+(4) Zone IV is enclosed by rhumb lines connecting, in order, points E, N, S, O, and E.
+
+(i) It is unlawful to place a stone crab trap in that part of Zone IV that is in the EEZ 
+from October 5 through December 1 and from April 2 through May 20, each year.
+
+(ii) It is unlawful to trawl in that part of Zone IV that is in the EEZ from December 2 
+through April 1, each year.
+
+(5) Zone V is enclosed by rhumb lines connecting, in order, points F, G, K, L, and F.
+
+(i) It is unlawful to place a stone crab trap in that part of Zone V that is in the EEZ 
+from October 5 through November 30 and from March 16 through May 20, each year.
+
+(ii) It is unlawful to trawl in that part of Zone V that is in the EEZ from December 1 
+through March 15, each year.

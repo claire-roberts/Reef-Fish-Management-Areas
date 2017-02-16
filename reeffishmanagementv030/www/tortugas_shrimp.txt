@@ -1,0 +1,47 @@
+﻿URL: http://sero.nmfs.noaa.gov/maps_gis_data/fisheries/gom/documents/tortugas_shrimp.txt
+
+Title 50 CFR: Wildlife and Fisheries
+PART 622 FISHERIES OF THE CARIBBEAN, GULF OF MEXICO, AND SOUTH ATLANTIC
+Subpart C—Shrimp Fishery of the Gulf of Mexico
+§622.55   Closed areas.
+
+(c) Tortugas shrimp sanctuary. (1) The Tortugas shrimp sanctuary is closed to trawling. 
+The Tortugas shrimp sanctuary is that part of the EEZ off Florida shoreward of rhumb lines 
+connecting, in order, the following points:
+ 
+------------------------------------------------------------------------
+Point                                        North lat.   West long.
+------------------------------------------------------------------------
+N \1\.......................................  25°52.9'    81°37.9'
+F...........................................  24°50.7'    81°51.3'
+G \2\.......................................  24°40.1'    82°26.7'
+H \3\.......................................  24°34.7'    82°35.2'
+P \4\.......................................  24°35.0'    82°08.0'
+------------------------------------------------------------------------
+\1\ Coon Key Light.
+\2\ New Ground Rocks Light.
+\3\ Rebecca Shoal Light.
+\4\ Marquessas Keys.
+
+(2) The provisions of paragraph (c)(1) of this section notwithstanding—
+
+(i) Effective from April 11 through September 30, each year, that part of the Tortugas shrimp
+ sanctuary seaward of rhumb lines connecting the following points is open to trawling: From 
+point T at 24°47.8′ N. lat., 82°01.0′ W. long. to point U at 24°43.83′ N. lat., 82°01.0′ W. 
+long. (on the line denoting the seaward limit of Florida's waters); thence along the seaward 
+limit of Florida's waters, as shown on the current edition of NOAA chart 11439, to point V 
+at 24°42.55′ N. lat., 82°15.0′ W. long.; thence north to point W at 24°43.6′ N. lat., 
+82°15.0′ W. long.
+
+(ii) Effective from April 11 through July 31, each year, that part of the Tortugas shrimp 
+sanctuary seaward of rhumb lines connecting the following points is open to trawling: From 
+point W to point V, both points as specified in paragraph (c)(2)(i) of this section, to 
+point G, as specified in paragraph (c)(1) of this section.
+
+(iii) Effective from May 26 through July 31, each year, that part of the Tortugas shrimp 
+sanctuary seaward of rhumb lines connecting the following points is open to trawling: From
+point F, as specified in paragraph (d)(1) of this section, to point Q at 24°46.7′ N. lat., 
+81°52.2′ W. long. (on the line denoting the seaward limit of Florida's waters); thence along 
+the seaward limit of Florida's waters, as shown on the current edition of NOAA chart 11439, 
+to point U and north to point T, both points as specified in paragraph (c)(2)(i) of this 
+section.

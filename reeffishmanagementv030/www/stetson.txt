@@ -1,0 +1,19 @@
+﻿URL: http://sero.nmfs.noaa.gov/maps_gis_data/fisheries/gom/documents/stetson.txt
+
+Title 50 CFR: Wildlife and Fisheries
+PART 622 FISHERIES OF THE CARIBBEAN, GULF OF MEXICO, AND SOUTH ATLANTIC
+Subpart D—Coral and Coral Reefs of the Gulf of Mexico
+§ 622.74 Area closures to protect Gulf corals.
+
+(e) Stetson Bank HAPC. Fishing with a bottom longline, bottom trawl, buoy gear, pot, or 
+trap and bottom anchoring by fishing vessels are prohibited year-round in the HAPC, which 
+is bounded by rhumb lines connecting, in order, the following points:
+-------------------------------------------------
+Point                   North lat.     West long.
+-------------------------------------------------
+A                       28°10'38.3"   94°18'36.5"  
+B                       28°10'38.3"   94°17'06.3"  
+C                       28°09'18.6"   94°17'06.3"  
+D                       28°09'18.6"   94°18'36.5"  
+A                       28°10'38.3"   94°18'36.5"  
+-------------------------------------------------
