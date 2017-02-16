@@ -1,2 +1,2 @@
 # Reef-Fish-Management-Areas
-This is a line from RStudio
+This web application was created by Dr. John Froeschke, his GitHub page is [here](https://github.com/jfroeschke) 
